@@ -17,7 +17,7 @@ git init
 ```
 
 # 🔍 Livros que tem me ajudado
-- [Hábitos Atômicos]()
+- [Hábitos Atômicos](https://www.amazon.com.br/H%C3%A1bitos-At%C3%B4micos-M%C3%A9todo-Comprovado-Livrar/dp/8550807567)
 - [Clean Code]()
 - [Ultra Aprendizado]()
 - [Indistraivel]()
