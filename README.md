@@ -21,4 +21,4 @@ git init
 - [Clean Code]()
 - [Ultra Aprendizado]()
 - [Indistraivel]()
-- [Seja egoísta com sua carreira]().
+- [Seja egoísta com sua carreira]()
